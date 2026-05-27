@@ -119,5 +119,3 @@ Future improvements for this project include:
 - Creating interactive dashboards using Streamlit or Power BI
 - Deploying the project as a web application
 - Improving prediction accuracy using deep learning models
-
----
